@@ -14,3 +14,5 @@ Visit site [ztu.edu.ua](https://ztu.edu.ua/)
 - [x] іва
 - [x] іва
 - [ ] іва
+- [ ] іва
+- [ ] іва
