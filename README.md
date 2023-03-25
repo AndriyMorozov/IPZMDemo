@@ -10,7 +10,7 @@ sdfsdf
 sdf
 sdf
 sdf
-Visit site [ztu.edu.ua](https://ztu.edu.ua/)
+Visit site [google.com.ua](https://google.com.ua/)
 
 ## Інформація про розробників
 
